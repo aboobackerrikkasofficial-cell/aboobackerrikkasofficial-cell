@@ -101,57 +101,56 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
   <img src="https://streak-stats.demolab.com?user=aboobackerrikkasofficial-cell&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
----
-
-## Achievements
+## GitHub Metrics
 
 <p align="left">
-  <img src="https://github-trophies.vercel.app/?username=aboobackerrikkasofficial-cell&theme=onedark&no-frame=true&margin-w=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboobackerrikkasofficial-cell&layout=compact&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboobackerrikkasofficial-cell&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## Connect & Profile
+## Tech Stack
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Full%20Stack%20Dev-black?style=flat-square&logo=github&labelColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=flat-square"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Focus-APIs%20%7C%20Dashboards-blue?style=flat-square"/></a>
+  <img src="https://skillicons.dev/icons?i=python,flask,vue,mysql,js,html,css,vscode,postman,git,github,vercel,render" />
 </p>
 
 ---
 
-## Skills
+## Activity Badges
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-Expert-%23007ACC?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Flask-API%20Specialist-%23000?style=flat-square&logo=flask"/>
-  <img src="https://img.shields.io/badge/Vue.js-UI%20Builder-%234FC08D?style=flat-square&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/MySQL-Data%20Designer-%234479A1?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/JavaScript-Logic%20Developer-%23F7DF1E?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-Structure%20Creator-%23E34F26?style=flat-square&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-Style%20Artist-%231572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/github/commit-activity/m/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Commits"/>
+  <img src="https://img.shields.io/github/last-commit/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Last%20Commit"/>
+  <img src="https://img.shields.io/github/languages/top/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Top%20Language"/>
 </p>
 
 ---
 
-## Metrics
+## Connect
 
 <p align="left">
-  <img src="https://img.shields.io/github/commit-activity/m/aboobackerrikkasofficial-cell?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/github/last-commit/aboobackerrikkasofficial-cell?style=flat-square"/>
-  <img src="https://img.shields.io/github/languages/count/aboobackerrikkasofficial-cell?style=flat-square"/>
+  <a href="https://portfolio-ivory-kappa-61.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=flat&logo=vercel"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aboobacker-rikkas">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:aboobackerrikkasofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## Visitors
-
-<p align="left">
-  <img src="https://profile-counter.glitch.me/aboobackerrikkasofficial-cell/count.svg" />
-</p>
+### Profile Views
+<img src="https://komarev.com/ghpvc/?username=aboobackerrikkasofficial-cell&label=Profile%20Views&style=flat&theme=dark"/>
 
 ---
