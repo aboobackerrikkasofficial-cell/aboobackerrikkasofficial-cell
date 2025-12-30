@@ -120,4 +120,4 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 ---
 
 ### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=aboobackerrikkasofficial-cell)
+<img src="https://komarev.com/ghpvc/?username=aboobackerrikkasofficial-cell&style=flat" />
