@@ -103,15 +103,15 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 
 ---
 
-## GitHub Metrics
+## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboobackerrikkasofficial-cell&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboobackerrikkasofficial-cell&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboobackerrikkasofficial-cell&theme=dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=aboobackerrikkasofficial-cell&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -119,17 +119,18 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,vue,mysql,js,html,css,vscode,postman,git,github,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=python,flask,vue,mysql,js,html,css,git,github,postman,vscode,vercel,render" />
 </p>
 
 ---
 
-## Activity Badges
+## GitHub Badges
 
 <p align="left">
-  <img src="https://img.shields.io/github/commit-activity/m/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Commits"/>
-  <img src="https://img.shields.io/github/last-commit/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Last%20Commit"/>
-  <img src="https://img.shields.io/github/languages/top/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Top%20Language"/>
+  <img src="https://img.shields.io/github/followers/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Stars"/>
+  <img src="https://img.shields.io/github/repos/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Public%20Repos"/>
+  <img src="https://img.shields.io/github/commit-activity/m/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Commits%2FMonth"/>
 </p>
 
 ---
@@ -137,20 +138,14 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 ## Connect
 
 <p align="left">
-  <a href="https://portfolio-ivory-kappa-61.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-black?style=flat&logo=vercel"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aboobacker-rikkas">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin"/>
-  </a>
-  <a href="mailto:aboobackerrikkasofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://portfolio-ivory-kappa-61.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-000?style=flat&logo=vercel"/></a>
+  <a href="https://www.linkedin.com/in/aboobacker-rikkas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
+  <a href="mailto:aboobackerrikkasofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### Profile Views
-<img src="https://komarev.com/ghpvc/?username=aboobackerrikkasofficial-cell&label=Profile%20Views&style=flat&theme=dark"/>
+<img src="https://komarev.com/ghpvc/?username=aboobackerrikkasofficial-cell&style=flat&label=Views"/>
 
 ---
