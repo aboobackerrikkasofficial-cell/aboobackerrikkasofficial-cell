@@ -109,7 +109,7 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aboobackerrikkasofficial-cell&row=1&margin-w=15&no-frame=true&no-bg=true"/>
+    <img src="https://github-profile-trophy.vercel.app/api?username=aboobackerrikkasofficial-cell" height="150"/>
 </p>
 
 ---
