@@ -116,7 +116,6 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 <p align="left">
   <img src="https://img.shields.io/github/followers/aboobackerrikkasofficial-cell?label=Followers&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/aboobackerrikkasofficial-cell?label=Total%20Stars&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/repo-count/aboobackerrikkasofficial-cell?label=Repositories&style=for-the-badge"/>
 </p>
 
 ---
