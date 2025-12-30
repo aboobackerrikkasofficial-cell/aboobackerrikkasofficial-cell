@@ -95,29 +95,56 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 
 ---
 
-## GitHub Stats & Badges
+---
 
-<img src="https://streak-stats.demolab.com?user=aboobackerrikkasofficial-cell&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboobackerrikkasofficial-cell&layout=compact&theme=tokyonight&hide_border=true" />
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboobackerrikkasofficial-cell&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboobackerrikkasofficial-cell&hide_border=true" height="170"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=aboobackerrikkasofficial-cell&row=1&margin-w=15&no-frame=true&no-bg=true"/>
+</p>
 
 ---
 
-## Tech Stack Preview
+## Profile Badges
 
 <p align="left">
-  <img src="python.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="flask.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="vuejs.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="mysql.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="javascript.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="html5.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="css3.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="git.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="45" height="45" style="margin-right:15px; filter: invert(0);" />
+  <img src="https://img.shields.io/github/followers/aboobackerrikkasofficial-cell?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/aboobackerrikkasofficial-cell?label=Total%20Stars&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repos/aboobackerrikkasofficial-cell?label=Repositories&style=for-the-badge"/>
 </p>
 
+---
 
+## Tech Stack Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Vue.js-Frontend-green?style=for-the-badge&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/JavaScript-Language-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-Styles-purple?style=for-the-badge&logo=css3"/>
+</p>
+
+---
+
+## Social & Portfolio
+
+<p align="left">
+  <a href="https://portfolio-ivory-kappa-61.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-9cf?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.linkedin.com/in/aboobacker-rikkas"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:aboobackerrikkasofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
