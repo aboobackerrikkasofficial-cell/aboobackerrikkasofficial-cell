@@ -104,11 +104,11 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboobackerrikkasofficial-cell&layout=compact&hide_border=true" height="170"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboobackerrikkasofficial-cell&hide_border=true" height="170"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aboobackerrikkaasofficial-cell&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
