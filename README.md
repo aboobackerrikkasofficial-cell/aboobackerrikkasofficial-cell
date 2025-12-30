@@ -98,9 +98,9 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 ## GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aboobackerikkasofficial-cell&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerikkasofficial-cell&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboobackerikkasofficial-cell&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aboobackerrikkasofficial-cell&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboobackerrikkasofficial-cell&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
