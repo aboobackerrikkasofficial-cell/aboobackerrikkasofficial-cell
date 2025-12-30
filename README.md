@@ -105,7 +105,7 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 
 ## Tech Stack Preview
 
-<p align="center"
+<p align="left" gap="3px"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
