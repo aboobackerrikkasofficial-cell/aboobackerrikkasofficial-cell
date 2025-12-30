@@ -97,17 +97,15 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 
 ## GitHub Stats & Badges
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aboobackerrikkasofficial-cell&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboobackerrikkasofficial-cell&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=aboobackerrikkasofficial-cell&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboobackerrikkasofficial-cell&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## Tech Stack Preview
 
-<p align="left">
+<p align="center"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
