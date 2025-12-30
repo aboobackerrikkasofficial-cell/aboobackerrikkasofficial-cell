@@ -95,8 +95,6 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 
 ---
 
----
-
 ## GitHub Stats
 
 <p align="left">
