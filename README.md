@@ -103,19 +103,6 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aboobackerrikkasofficial-cell&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboobackerrikkasofficial-cell&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=aboobackerrikkasofficial-cell&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ## Tech Stack
 
 <p align="left">
@@ -124,23 +111,22 @@ Full-Stack Python Developer with hands-on experience building scalable web appli
 
 ---
 
-## GitHub Badges
+## Profile Badges
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Stars"/>
-  <img src="https://img.shields.io/github/repos/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Public%20Repos"/>
-  <img src="https://img.shields.io/github/commit-activity/m/aboobackerrikkasofficial-cell?style=flat&logo=github&label=Commits%2FMonth"/>
+  <img src="https://img.shields.io/github/followers/aboobackerrikkasofficial-cell?label=Followers&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/aboobackerrikkasofficial-cell?label=Total%20Stars&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/repo-count/aboobackerrikkasofficial-cell?label=Repositories&style=for-the-badge"/>
 </p>
 
 ---
 
-## Connect
+## Social & Portfolio
 
 <p align="left">
-  <a href="https://portfolio-ivory-kappa-61.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-000?style=flat&logo=vercel"/></a>
-  <a href="https://www.linkedin.com/in/aboobacker-rikkas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="mailto:aboobackerrikkasofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-ivory-kappa-61.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-9cf?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.linkedin.com/in/aboobacker-rikkas"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:aboobackerrikkasofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
